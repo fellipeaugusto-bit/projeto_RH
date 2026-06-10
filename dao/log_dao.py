@@ -29,3 +29,4 @@ class LogDAO:
         resultados = cursor.fetchall()
         cursor.close()
         return resultados
+

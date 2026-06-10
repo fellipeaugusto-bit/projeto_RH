@@ -19,3 +19,4 @@ class CargoDAO:
         resultados = cursor.fetchall()
         cursor.close()
         return resultados
+

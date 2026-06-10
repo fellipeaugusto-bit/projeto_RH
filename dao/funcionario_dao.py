@@ -70,3 +70,4 @@ class FuncionarioDAO:
         cursor.execute(query, (id,))
         conn.commit()
         cursor.close()
+

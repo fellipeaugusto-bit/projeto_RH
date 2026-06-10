@@ -3,3 +3,4 @@ class Cargo:
         self.id = id
         self.nome = nome
         self.salario_base = salario_base
+

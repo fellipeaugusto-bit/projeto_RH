@@ -12,3 +12,4 @@ class AuthService:
         admin = cursor.fetchone()
         cursor.close()
         return admin is not None
+
